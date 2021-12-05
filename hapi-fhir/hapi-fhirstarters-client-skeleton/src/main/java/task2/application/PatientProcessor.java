@@ -5,7 +5,7 @@ import org.hl7.fhir.r4.model.Patient;
 import java.util.LinkedHashSet;
 
 /**
- *
+ * Class to get patients (pull request test)
  */
 
 
